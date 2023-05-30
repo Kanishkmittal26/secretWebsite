@@ -4,7 +4,7 @@ how to secretly pass my secret message
 there are 6 levels to pass a secret
 so, there are different app.js files like(appLevel2,appLevel3....) for each level...run separately according to their levels
 
-1. create env file under root directory
+1. create .env file under root directory
     -> PASTE THIS 
 # level 2 onwards(for appLevel2.js ..... to appLevel5.js) 
 SECRETENCRYPTION = This is my first secret.
